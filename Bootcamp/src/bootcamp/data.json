@@ -68,7 +68,7 @@
         {
           "Time": "11:45 - 12:30",
           "Title": "Azure App Services",
-          "Description": "Azure App Services je cloud platforma koja okuplja sve servise potrebne za jednostavan razvoj i hosting web i mobilnih rješenja u oblaku. Ovo PAAS rješenje uključuje Web Apps i Mobile Apps usluge koje su prije dolazile odvojeno (Azure Mobile Services i Azure Websites), ali i nove Logic Apps i API apps koje ćete upoznati bolje na predavanju. Sve četiri usluge stoje iza jedinstvenog modela, iza jedne cijene i iza jednog seta baznih funkcionalnosti poput CI, jednostavnije integracije s cloud i onprem sustavima, auto-scaling i mnogih drugih. Detaljnije ćete čuti na predavanju.",
+          "Description": "Azure App Services je cloud platforma koja okuplja sve servise potrebne za jednostavan razvoj i hosting web i mobilnih rješenja u oblaku. Ovo PAAS rješenje uključuje Web Apps i Mobile Apps usluge koje su prije dolazile odvojeno (Azure Mobile Services i Azure Websites), ali i nove Logic Apps i API apps koje ćete upoznati bolje na predavanju. Sve četiri usluge stoje iza jedinstvenog modela, iza jedne cijene i iza jednog seta baznih funkcionalnosti poput CI, jednostavnije integracije s cloud i onprem sustavima, auto-scaling i mnogih drugih. Detaljnije na predavanju!",
           "Speaker": "Petar Kovačević"
 
         },
