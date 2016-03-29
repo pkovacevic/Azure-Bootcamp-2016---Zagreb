@@ -1,4 +1,6 @@
-﻿@model Track[]
+﻿@using System.Threading.Tasks
+@using bootcamp.Models
+@model bootcamp.Models.Track[]
 @{
     var tracks = Model.Select(x => x.Name).ToList();
     var maxSessions = Model.Max(x => x.Sessions.Length) + 1;

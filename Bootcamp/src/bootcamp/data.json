@@ -1,0 +1,100 @@
+﻿{
+  "Location": {
+    "Name": "Zagreb",
+    "Address": "Horvatova 82, Zagreb"
+  },
+  "Social": {
+    "Meetup": "http://global.azurebootcamp.net/locations/croatia-zagreb/"
+  },
+  "Callout": {
+    "Text": "Call for speakers",
+    "Link": "https://www.facebook.com/MWAPSG",
+    "Type": "info"
+  },
+  "Organizers": [
+    {
+      "Name": "Bruno Kovačić",
+      "Social": {
+        "Website": "http://www.axilis.com",
+        "Email": "bruno.kovacic@axilis.com"
+      }
+    },
+    {
+      "Name": "Petar Kovačević",
+      "Social": {
+        "Website": "http://www.axilis.com",
+        "Email": "petar.kovacevic@axilis.com"
+      }
+    }
+  ],
+  "Sponsors": [
+
+    {
+      "Name": "Microsoft",
+      "Image": "/images/microsoft.png",
+      "Link": "http://www.microsoft.com"
+    },
+    {
+      "Name": "Axilis",
+      "Image": "/images/axilis.png",
+      "Link": "http://www.axilis.com"
+    }
+  ],
+  "Prizes": [  ],
+  "Tracks": [
+    {
+      "Name": "Track",
+      "Sessions": [
+        {
+          "Time": "9:00 - 9:30",
+          "Title": "Keynote",
+          "Description": "",
+          "Speaker": "Bruno Kovačić"
+
+        },
+        {
+          "Time": "9:45 - 10:30",
+          "Title": "Oporavak u slučaju katastrofe putem Azurea",
+          "Description": "Gotovo svi smo se u nekom trenutku susreli s većom ili manjom havarijom u informacijskom sustavu, od benignog nehotičnog brisanja podataka od strane korisnika, preko hardverskih i softverskih kvarova različitih vrsta. Srećom, puno manje nas je doživjelo veću katastrofu, u obliku potpunog uništenja IT sustava ili lokacije na kojoj je smješten. Današnji način poslovanja, što po samoj svojoj prirodi, što zbog uvjeta koje definira neki regulator, zahtjeva osiguravanje kontinuiteta poslovanja i zaštite poslovnih podataka. Putem Azure Site Recovery usluge Microsoft vam omogućava da osigurate svoje podatke i poslovanje na jednostavan i fleksibilan način, a u ovom predavanju ćemo vam je ukratko predstaviti.",
+          "Speaker": "Marko Kuntić i Hrvoje Kusulja"
+        },
+        {
+          "Time": "10:45 - 11:30",
+          "Title": "OMS – pogled na IT sustav iz Microsoft oblaka",
+          "Description": "Microsoft OMS je izuzetno moćna cloud platforma za nadzor,  primjenjiva u širokoj lepezi scenarija. Imate li on-premise, hibridni ili cloud bazirani IT sustav, Windows Server ili Linux poslužitelje, nalaze li se virtualke u Azuru ili u AWS-u, koristite li Hyper-V, VMWare ili OpenStack, imate li SCOM on-premise? U bilo kojoj kombinaciji nabrojanih scenarija Microsoft OMS pružit će Vam unificirano rješenje za nadzor i upravljanje. OMS se vrlo dinamično razvija pa ćemo pokazati sva, u trenutku predavanja, implementirana OMS rješenja.",
+          "Speaker": "Romeo Mlinar"
+
+        },
+        {
+          "Time": "11:45 - 12:30",
+          "Title": "Azure App Services",
+          "Description": "Azure App Services je cloud platforma koja okuplja sve servise potrebne za jednostavan razvoj i hosting web i mobilnih rješenja u oblaku. Ovo PAAS rješenje uključuje Web Apps i Mobile Apps usluge koje su prije dolazile odvojeno (Azure Mobile Services i Azure Websites), ali i nove Logic Apps i API apps koje ćete upoznati bolje na predavanju. Sve četiri usluge stoje iza jedinstvenog modela, iza jedne cijene i iza jednog seta baznih funkcionalnosti poput CI, jednostavnije integracije s cloud i onprem sustavima, auto-scaling i mnogih drugih. Detaljnije ćete čuti na predavanju.",
+          "Speaker": "Petar Kovačević"
+
+        },
+        {
+          "Time": "12:30 - 13:30",
+          "Title": "Ručak",
+          "Description": ".",
+          "Speaker": ""
+
+        },
+        {
+          "Time": "13:45 - 14:30",
+          "Title": "Azure Service Fabric - mikroservisi bez glavobolje",
+          "Description": "Service Fabric je distribuirana platforma koja olakšava pakiranje, deployment i upravljanje skalabilnim i pouzdanim mikroservisima te rješava izazove razvoja i upravljanja cloud aplikacijama. Koristeći Service Fabric, developeri i administratori su oslobođeni rješavanja kompleksnih infrastrukturnih problema i mogu se fokusirati na implementaciju svojih rješenja, znajući da će ona biti skalabilna, pouzdana i upravljiva. Service Fabric je nova generacija middleware platforme za izradu i upravljanje enterprise-class, cloud-scale aplikacija te je dostupna putem Azurea, kao i putem Azure Stacka, Windows Servera, a uskoro i Linuxa.",
+          "Speaker": "Ivan Čuljak"
+
+        },
+        {
+          "Time": "14:45 - 15:30",
+          "Title": "Azure Machine Learning ili kako predvidjeti smrt sljedećeg Games of Thrones glumca",
+          "Description": "Prošla je godina dana otkad smo imali priliku upoznati Azure Machine Learning na Global Azure Bootcamp 2015 gdje smo samo zagrebli po površini i prikazali osnovne funkcionalnosti Microsoftovog alata za strojno učenje. Pokazali smo kako Azure Machine Learning radi sa statističkim jezikom R te smo također napravili eksperiment gdje smo predviđali koja vrsta putnika bi preživjela potonuće prekooceanskog broda Titanik. Godinu dana  poslije ekipa iz Microsofta nam je predstavila neke novosti u sklopu Azure Machine Learning platforme te je ideja da većinu predavanja upoznamo sto je to novoga u svijetu strojnog učenja u obliku demoa i raznih eksperimenata. Biti će tu eksperimenata gdje ćemo predviđati kojeg sljedećeg Games Of Thrones glumca očekuje strašna smrt kao i onih možda vise korisnijih poput prepoznavanja lica, semantičke analize teksta, podrške za Python te predviđanja kvalitete vina",
+          "Speaker": "Renato Jović"
+
+        }
+      ]
+    }
+    
+  ]
+}
